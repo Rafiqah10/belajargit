@@ -1,0 +1,3 @@
+GIT adalah sebuah tools bagi para programmer dan developer yang berfungsi sebagai control system untuk menjalankan proyek pengembangan software. GIT adalah singkatan dari Group Inclusive Tour. Tujuan penggunaan GIT yakni untuk mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+
+Git adalah sebuah version control system terbuka yang dikembangkan oleh Linus Torvalds pada tahun 2005. Linus Torvalds juga merupakan pengembang sistem kernel dari sistem operasi Linux.Saat ini, Git merupakan version control system paling populer digunakan. Ada ratusan proyek software yang mengandalkan Git sebagai version control system mereka termasuk proyek komersial serta open source.
